@@ -16,7 +16,7 @@ Objective: Simplify and automate the laptop request and approval workflow for em
 
 Team ID: NM2025TMID04231 Team Size: 4 Members
 
-🔗 ServiceNow Developer Instance: https://dev200394.service-now.com/navpage.do
+🔗 ServiceNow Developer Instance: https://dev225665.service-now.com/now/nav/ui/classic/params/target/sys_remote_update_set_list.do%3Fsysparm_fixed_query%3Dsys_class_name%253Dsys_remote_update_set
 
 🎥 Demo Video: https://drive.google.com/file/d/1E7nVAUocowNG9niFKPCz1VTnUDe80RcV/view?usp=drivesdk
 
